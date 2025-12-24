@@ -1,51 +1,79 @@
 # OpenMeet
 
-OpenMeet is an open-source replacement for Meetup.com, which has raised their prices after being aquired in 2024. The Meetup product raised their rates sky-high. $24 a month to create 3 events. Relieving lonliness shouldn't be expensive.
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/OpenMeet-Team/openmeet-api/blob/main/LICENSE)
+[![Discord](https://img.shields.io/discord/1316964466889461760?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/eQcYADgnrc)
 
- The goal is to help people discover and organize local interest groups, making it easier to build meaningful connections in their neighborhoods, towns, and cities. We believe that tools for bringing people together should be freely available to everyone, which is why we're building OpenMeet in the open, allowing anyone to contribute to and benefit from better community organizing software.
+**A free, open-source event platform for community organizers.** Think Meetup, but free for communities and open source.
 
-* [platform.openmeet.net](https://platform.openmeet.net) - Our first version is out now.  Try it to create any type of group and event; we'd love to hear your feedback.
-* [FAQ](https://biz.openmeet.net/faq) - Answers to common questions about OpenMeet
-* [OpenMeet](https://openmeet.net) - About what we're doing
-* [Discord Server](https://discord.gg/eQcYADgnrc)
+**Live now:** [platform.openmeet.net](https://platform.openmeet.net)
 
-## Mission
+---
 
-A platform designed to provide a free, simple way for people to meet in person. We’re offering all the features of the current unaffordable solutions—for free—and are enhancing them with AI to create a complete event solution. Users can easily create, publicize, and even monetize events
+## Why OpenMeet?
 
-Our core mission is simple: “Get Involved.” It’s time to bring people back to face-to-face connections.
+Meetup charges organizers $200+/year just to host community events. We believe tools for bringing people together should be freely available to everyone.
 
-## Use cases
+| What's Different | |
+|------------------|---|
+| **Free forever** | No organizer fees for groups of any size |
+| **Open source** | Run your own instance or use the [community instance](https://platform.openmeet.net) |
+| **AT Protocol native** | Sign in with your AT Protocol identity, own your data |
+| **No lock-in** | Export your data anytime, or self-host |
 
-### The Tech for Good Initiative
+---
 
-Marcus, a software developer, was passionate about using technology to solve local community problems in his hometown. Through OpenMeet, he:
+## Repositories
 
-- Started a "Tech for Good" group
-- Connected with other socially conscious developers, designers, and community organizers
-- Organized quarterly hackathons focusing on local non-profit needs
-- Built a network of 50+ tech professionals who now regularly contribute to community projects
-- Created real impact by building free websites and apps for local charities
-  
-### Monthly Coffee Klatsch
+| Repository | Description | Stack |
+|------------|-------------|-------|
+| [openmeet-api](https://github.com/OpenMeet-Team/openmeet-api) | Backend API | NestJS, TypeScript, PostgreSQL |
+| [openmeet-platform](https://github.com/OpenMeet-Team/openmeet-platform) | Frontend web app | Vue 3, Quasar, TypeScript |
+| [survey](https://github.com/OpenMeet-Team/survey) | AT Protocol polling service | Go, Templ, HTMX |
 
-Linda, a retired teacher in Seattle, uses OpenMeet to transform her neighborhood:
-- Hosts a monthly coffee meetup that rotates between local cafes
-- Started with 4 neighbors, now welcomes 40+ regular attendees
-- Creates an inclusive space where newcomers instantly feel at home
-- Helps recent transplants build their first local friendships
-- Strengthens community bonds through regular face-to-face connections
-- Supports local coffee shops by bringing in steady business
+---
 
-What started as a simple idea - "let's meet for coffee" - has become a cornerstone of community life. Members have formed walking groups, book clubs, and even organized neighborhood improvement projects. The ripple effects of these casual conversations over coffee show how simple gatherings can transform a neighborhood into a true community.
+## Features
 
-"I never expected a monthly coffee meetup could create such meaningful connections," says Linda. "Now I can't walk down the street without running into a friendly face."
+- **Events** — One-time or recurring, with RSVP management and waitlists
+- **Groups** — Build communities around shared interests
+- **Real-time chat** — Matrix-powered group and event chat
+- **Multiple auth options** — Email, Google, GitHub, or AT Protocol
+- **AT Protocol integration** — Your events sync to your Personal Data Server
 
-## Contributing
+---
 
-We welcome contributions to OpenMeet! We don't have a formal process yet, but submit PRs or open issues and we can discuss from there.
+## Who Uses OpenMeet?
 
-## Contact
-* support@openmeet.net
-* https://calendly.com/tom-openmeet/30min
-* [Join our Community Discord](https://discord.gg/eQcYADgnrc) while we build OpenMeet
+300+ users across ~50 groups, including:
+- [Kona Freethinkers](https://platform.openmeet.net/groups/kona-freethinkers-hi7lb1) — Community discussion group
+- [Coast Riders Motorcycle Club](https://platform.openmeet.net/groups/coast-riders-motorcycle-club-roykjb) — Motorcycle club
+- Book clubs, tech meetups, hobby groups, and more
+
+[Browse all groups →](https://platform.openmeet.net/groups)
+
+---
+
+## Get Involved
+
+**Use OpenMeet:** [platform.openmeet.net](https://platform.openmeet.net) — Create a group, it's free
+
+**Contribute:**
+- Browse [good first issues](https://github.com/search?q=org%3AOpenMeet-Team+label%3A%22good+first+issue%22+is%3Aopen&type=issues) across all repos
+- Check the [Roadmap](https://github.com/OpenMeet-Team/openmeet-api/blob/main/ROADMAP.md) for what's coming
+- Submit a PR — we review within a few days, usually same day
+- Share us with a friend and help us grow
+
+**Connect:**
+- [Discord](https://discord.gg/eQcYADgnrc) — Chat with the OpenMeet community
+- [Bluesky](https://bsky.app/profile/openmeet.net) — Follow @openmeet.net for updates
+- [FAQ](https://biz.openmeet.net/faq) — Common questions answered
+
+---
+
+## Support OpenMeet
+
+OpenMeet is free for community groups, funded by the community. Help cover hosting costs (~$350/month) at [platform.openmeet.net/support](https://platform.openmeet.net/support).
+
+---
+
+**Contact:** support@openmeet.net
