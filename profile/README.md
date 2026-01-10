@@ -55,24 +55,21 @@ Meetup charges organizers $200+/year just to host community events. We believe t
 
 ## Get Involved
 
-**Use OpenMeet:** [platform.openmeet.net](https://platform.openmeet.net) — Create a group, it's free
+OpenMeet is community-driven and we need help in many areas:
 
-**Contribute:**
-- Browse [good first issues](https://github.com/search?q=org%3AOpenMeet-Team+label%3A%22good+first+issue%22+is%3Aopen&type=issues) across all repos
-- Check the [Roadmap](https://github.com/OpenMeet-Team/openmeet-api/blob/main/ROADMAP.md) for what's coming
-- Submit a PR — we review within a few days, usually same day
-- Share us with a friend and help us grow
+| Area | How You Can Help |
+|------|------------------|
+| **Use It** | [Create a group](https://platform.openmeet.net) — it's free |
+| **Marketing** | Spread the word, write blog posts, share on social media |
+| **Feature Ideas** | [Open an issue](https://github.com/OpenMeet-Team/openmeet-api/issues/new) with requests from your community's needs |
+| **Funding** | Help cover hosting (~$350/month) at [platform.openmeet.net/support](https://platform.openmeet.net/support) |
+| **Development** | Browse [good first issues](https://github.com/search?q=org%3AOpenMeet-Team+label%3A%22good+first+issue%22+is%3Aopen&type=issues) across all repos |
 
-**Connect:**
-- [Discord](https://discord.gg/eQcYADgnrc) — Chat with the OpenMeet community
-- [Bluesky](https://bsky.app/profile/openmeet.net) — Follow @openmeet.net for updates
-- [FAQ](https://biz.openmeet.net/faq) — Common questions answered
-
----
-
-## Support OpenMeet
-
-OpenMeet is free for community groups, funded by the community. Help cover hosting costs (~$350/month) at [platform.openmeet.net/support](https://platform.openmeet.net/support).
+**Resources:**
+- [Roadmap](https://github.com/OpenMeet-Team/openmeet-api/blob/main/ROADMAP.md) — What's coming next
+- [Discord](https://discord.gg/eQcYADgnrc) — Chat with the community
+- [Bluesky](https://bsky.app/profile/openmeet.net) — Follow @openmeet.net
+- [FAQ](https://biz.openmeet.net/faq) — Common questions
 
 ---
 
