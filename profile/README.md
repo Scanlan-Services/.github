@@ -69,7 +69,7 @@ OpenMeet is community-driven and we need help in many areas:
 - [Roadmap](https://github.com/OpenMeet-Team/openmeet-api/blob/main/ROADMAP.md) — What's coming next
 - [Discord](https://discord.gg/eQcYADgnrc) — Chat with the community
 - [Bluesky](https://bsky.app/profile/openmeet.net) — Follow @openmeet.net
-- [FAQ](https://biz.openmeet.net/faq) — Common questions
+- [FAQ](https://openmeet.net/faq) — Common questions
 
 ---
 
